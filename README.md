@@ -1,2 +1,2 @@
 # smart car
-Làm xe điều khiển bằng điện thoại bằng mạch esp32 c3 supermini và mạch drv8833
+Làm xe tự chạy tranh vật chống rơi bằng mạch esp32 c3 supermini + mạch drv8833 + VL53L0X + TCRT5000
